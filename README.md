@@ -11,11 +11,11 @@ Built for users who **hate manual work** and prefer **smart Excel systems**.
 ### 🔹 Custom Ribbon Interface
 ![Ribbon](screenshots/ribbon.png)
 
-### 🔹 Sheet Manager (UserForm)
-![Sheet Manager](screenshots/sheet-manager.png)
+### 🔹 Sheet Manager (UserForm)  
+![Sheet Manager](screenshots/Sheet-manager.png)
 
 ### 🔹 How to use Custom Functions (UserForm)
-![Help Menu](screenshots/Help-Menu.png)
+![Help Menu](screenshots/help-menu.png)
 
 ---
 
