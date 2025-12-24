@@ -7,7 +7,7 @@ Built for users who **hate manual work** and prefer **smart Excel systems**.
 ---
 ## 📥 Download Add-in
 
-🔽 **[Click here to download the Excel Add-in (.xlam)](https://github.com/sagardangar77/Sagar_Creation/blob/main/addin/Sagar%20Creation%20V1.3.xlam)**
+🔽 **[Click here to download the Excel Add-in (.xlam)](https://raw.githubusercontent.com/sagardangar77/Sagar_Creation/main/addin/Sagar%20Creation%20V1.3.xlam)**
 
 > After download:  
 > Excel → File → Options → Add-ins → Browse → Select file → Restart Excel
