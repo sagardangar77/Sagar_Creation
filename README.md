@@ -9,13 +9,13 @@ Built for users who **hate manual work** and prefer **smart Excel systems**.
 ## 📸 Screenshots
 
 ### 🔹 Custom Ribbon Interface
-![Ribbon](screenshots/ribbon.png)
+![Ribbon](Screenshots/ribbon.png)
 
 ### 🔹 Sheet Manager (UserForm)  
-![Sheet Manager](screenshots/Sheet-manager.png)
+![Sheet Manager](Screenshots/Sheet-manager.png)
 
 ### 🔹 How to use Custom Functions (UserForm)
-![Help Menu](screenshots/help-menu.png)
+![Help Menu](Screenshots/help-menu.png)
 
 ---
 
